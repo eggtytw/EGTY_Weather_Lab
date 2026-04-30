@@ -1,0 +1,14 @@
+{
+    "WP912026": {
+        "name": "INVEST",
+        "valid_time": "2026-04-30 00:00:00",
+        "coordinates": {
+            "lat": 5.0,
+            "lon": 151.8
+        },
+        "intensity": {
+            "mslp_hpa": 1010.0,
+            "max_wind_knots": 15.0
+        }
+    }
+}

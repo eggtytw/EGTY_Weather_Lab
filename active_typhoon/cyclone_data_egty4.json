@@ -1,0 +1,20 @@
+{
+    "WP912026": [
+        {
+            "sample_id": 0.0,
+            "data_points": [
+                {
+                    "valid_time": "2026-04-30 06:00:00",
+                    "coordinates": {
+                        "lat": 5.0,
+                        "lon": 151.8
+                    },
+                    "intensity": {
+                        "mslp_hpa": 1010.0,
+                        "max_wind_knots": 15.0
+                    }
+                }
+            ]
+        }
+    ]
+}
