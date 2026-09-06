@@ -1,0 +1,62 @@
+{
+    "EP112026": {
+        "name": "KARINA",
+        "valid_time": "2026-09-06 12:00:00",
+        "coordinates": {
+            "lat": 22.6,
+            "lon": -144.7
+        },
+        "intensity": {
+            "mslp_hpa": 992.0,
+            "max_wind_knots": 50.0
+        }
+    },
+    "EP122026": {
+        "name": "LOWELL",
+        "valid_time": "2026-09-06 12:00:00",
+        "coordinates": {
+            "lat": 14.4,
+            "lon": -163.8
+        },
+        "intensity": {
+            "mslp_hpa": 943.0,
+            "max_wind_knots": 110.0
+        }
+    },
+    "EP132026": {
+        "name": "MARIE",
+        "valid_time": "2026-09-06 12:00:00",
+        "coordinates": {
+            "lat": 23.3,
+            "lon": -122.3
+        },
+        "intensity": {
+            "mslp_hpa": 977.0,
+            "max_wind_knots": 70.0
+        }
+    },
+    "WP222026": {
+        "name": "KROVANH",
+        "valid_time": "2026-09-06 12:00:00",
+        "coordinates": {
+            "lat": 25.7,
+            "lon": 131.0
+        },
+        "intensity": {
+            "mslp_hpa": 989.0,
+            "max_wind_knots": 30.0
+        }
+    },
+    "WP232026": {
+        "name": "TWENTYTHRE",
+        "valid_time": "2026-09-06 00:00:00",
+        "coordinates": {
+            "lat": 29.0,
+            "lon": 131.0
+        },
+        "intensity": {
+            "mslp_hpa": 997.0,
+            "max_wind_knots": 25.0
+        }
+    }
+}
