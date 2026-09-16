@@ -1,0 +1,74 @@
+{
+    "EP142026": {
+        "name": "NORBERT",
+        "valid_time": "2026-09-15 12:00:00",
+        "coordinates": {
+            "lat": 20.4,
+            "lon": -142.4
+        },
+        "intensity": {
+            "mslp_hpa": 1007.0,
+            "max_wind_knots": 30.0
+        }
+    },
+    "EP152026": {
+        "name": "FIFTEEN",
+        "valid_time": "2026-09-15 18:00:00",
+        "coordinates": {
+            "lat": 15.8,
+            "lon": -124.4
+        },
+        "intensity": {
+            "mslp_hpa": 1006.0,
+            "max_wind_knots": 25.0
+        }
+    },
+    "IO942026": {
+        "name": "INVEST",
+        "valid_time": "2026-09-15 18:00:00",
+        "coordinates": {
+            "lat": 22.6,
+            "lon": 68.5
+        },
+        "intensity": {
+            "mslp_hpa": 1006.0,
+            "max_wind_knots": 25.0
+        }
+    },
+    "WP242026": {
+        "name": "TWENTYFOUR",
+        "valid_time": "2026-09-15 18:00:00",
+        "coordinates": {
+            "lat": 14.8,
+            "lon": 148.8
+        },
+        "intensity": {
+            "mslp_hpa": 1000.0,
+            "max_wind_knots": 30.0
+        }
+    },
+    "WP902026": {
+        "name": "INVEST",
+        "valid_time": "2026-09-15 12:00:00",
+        "coordinates": {
+            "lat": 14.9,
+            "lon": 149.0
+        },
+        "intensity": {
+            "mslp_hpa": 1001.0,
+            "max_wind_knots": 25.0
+        }
+    },
+    "WP982026": {
+        "name": "INVEST",
+        "valid_time": "2026-09-14 06:00:00",
+        "coordinates": {
+            "lat": 18.5,
+            "lon": 104.9
+        },
+        "intensity": {
+            "mslp_hpa": 1009.0,
+            "max_wind_knots": 15.0
+        }
+    }
+}
