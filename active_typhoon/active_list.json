@@ -1,0 +1,98 @@
+{
+    "AL062026": {
+        "name": "SIX",
+        "valid_time": "2026-09-19 12:00:00",
+        "coordinates": {
+            "lat": 32.5,
+            "lon": -33.6
+        },
+        "intensity": {
+            "mslp_hpa": 1009.0,
+            "max_wind_knots": 30.0
+        }
+    },
+    "AL982026": {
+        "name": "INVEST",
+        "valid_time": "2026-09-18 06:00:00",
+        "coordinates": {
+            "lat": 32.7,
+            "lon": -60.6
+        },
+        "intensity": {
+            "mslp_hpa": 1020.0,
+            "max_wind_knots": 20.0
+        }
+    },
+    "AL992026": {
+        "name": "INVEST",
+        "valid_time": "2026-09-19 12:00:00",
+        "coordinates": {
+            "lat": 32.5,
+            "lon": -33.6
+        },
+        "intensity": {
+            "mslp_hpa": 1015.0,
+            "max_wind_knots": 30.0
+        }
+    },
+    "EP152026": {
+        "name": "FIFTEEN",
+        "valid_time": "2026-09-19 12:00:00",
+        "coordinates": {
+            "lat": 16.6,
+            "lon": -139.7
+        },
+        "intensity": {
+            "mslp_hpa": 1007.0,
+            "max_wind_knots": 25.0
+        }
+    },
+    "EP982026": {
+        "name": "INVEST",
+        "valid_time": "2026-09-19 12:00:00",
+        "coordinates": {
+            "lat": 11.4,
+            "lon": -121.5
+        },
+        "intensity": {
+            "mslp_hpa": 1008.0,
+            "max_wind_knots": 25.0
+        }
+    },
+    "EP992026": {
+        "name": "INVEST",
+        "valid_time": "2026-09-19 12:00:00",
+        "coordinates": {
+            "lat": 10.3,
+            "lon": -105.9
+        },
+        "intensity": {
+            "mslp_hpa": 1008.0,
+            "max_wind_knots": 25.0
+        }
+    },
+    "IO952026": {
+        "name": "INVEST",
+        "valid_time": "2026-09-19 12:00:00",
+        "coordinates": {
+            "lat": 13.0,
+            "lon": 94.3
+        },
+        "intensity": {
+            "mslp_hpa": 1009.0,
+            "max_wind_knots": 15.0
+        }
+    },
+    "WP242026": {
+        "name": "DUJUAN",
+        "valid_time": "2026-09-19 12:00:00",
+        "coordinates": {
+            "lat": 27.8,
+            "lon": 138.3
+        },
+        "intensity": {
+            "mslp_hpa": 980.0,
+            "max_wind_knots": 65.0
+        }
+    }
+}
