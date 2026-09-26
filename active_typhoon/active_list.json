@@ -1,0 +1,110 @@
+{
+    "AL062026": {
+        "name": "FAY",
+        "valid_time": "2026-09-26 12:00:00",
+        "coordinates": {
+            "lat": 29.6,
+            "lon": -43.9
+        },
+        "intensity": {
+            "mslp_hpa": 1009.0,
+            "max_wind_knots": 30.0
+        }
+    },
+    "AL072026": {
+        "name": "GONZALO",
+        "valid_time": "2026-09-26 18:00:00",
+        "coordinates": {
+            "lat": 19.0,
+            "lon": -23.2
+        },
+        "intensity": {
+            "mslp_hpa": 1005.0,
+            "max_wind_knots": 35.0
+        }
+    },
+    "EP152026": {
+        "name": "NOLO",
+        "valid_time": "2026-09-26 12:00:00",
+        "coordinates": {
+            "lat": 16.9,
+            "lon": -155.3
+        },
+        "intensity": {
+            "mslp_hpa": 975.0,
+            "max_wind_knots": 90.0
+        }
+    },
+    "EP162026": {
+        "name": "ODALYS",
+        "valid_time": "2026-09-26 12:00:00",
+        "coordinates": {
+            "lat": 19.5,
+            "lon": -123.7
+        },
+        "intensity": {
+            "mslp_hpa": 965.0,
+            "max_wind_knots": 90.0
+        }
+    },
+    "EP172026": {
+        "name": "POLO",
+        "valid_time": "2026-09-26 18:00:00",
+        "coordinates": {
+            "lat": 18.3,
+            "lon": -112.2
+        },
+        "intensity": {
+            "mslp_hpa": 938.0,
+            "max_wind_knots": 125.0
+        }
+    },
+    "EP902026": {
+        "name": "INVEST",
+        "valid_time": "2026-09-26 12:00:00",
+        "coordinates": {
+            "lat": 11.9,
+            "lon": -98.3
+        },
+        "intensity": {
+            "mslp_hpa": 1008.0,
+            "max_wind_knots": 25.0
+        }
+    },
+    "IO012026": {
+        "name": "ONE",
+        "valid_time": "2026-09-26 12:00:00",
+        "coordinates": {
+            "lat": 26.0,
+            "lon": 82.6
+        },
+        "intensity": {
+            "mslp_hpa": 999.0,
+            "max_wind_knots": 15.0
+        }
+    },
+    "WP252026": {
+        "name": "SURIGAE",
+        "valid_time": "2026-09-26 18:00:00",
+        "coordinates": {
+            "lat": 24.0,
+            "lon": 127.2
+        },
+        "intensity": {
+            "mslp_hpa": 981.0,
+            "max_wind_knots": 75.0
+        }
+    },
+    "WP922026": {
+        "name": "INVEST",
+        "valid_time": "2026-09-26 12:00:00",
+        "coordinates": {
+            "lat": 14.6,
+            "lon": 99.4
+        },
+        "intensity": {
+            "mslp_hpa": 1005.0,
+            "max_wind_knots": 15.0
+        }
+    }
+}
