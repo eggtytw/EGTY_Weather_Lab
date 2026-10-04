@@ -1,0 +1,134 @@
+{
+    "AL062026": {
+        "name": "FAY",
+        "valid_time": "2026-09-29 18:00:00",
+        "coordinates": {
+            "lat": 23.9,
+            "lon": -47.7
+        },
+        "intensity": {
+            "mslp_hpa": 1011.0,
+            "max_wind_knots": 25.0
+        }
+    },
+    "AL082026": {
+        "name": "HANNA",
+        "valid_time": "2026-09-30 00:00:00",
+        "coordinates": {
+            "lat": 33.7,
+            "lon": -43.9
+        },
+        "intensity": {
+            "mslp_hpa": 1005.0,
+            "max_wind_knots": 35.0
+        }
+    },
+    "EP152026": {
+        "name": "NOLO",
+        "valid_time": "2026-09-30 00:00:00",
+        "coordinates": {
+            "lat": 21.8,
+            "lon": -164.2
+        },
+        "intensity": {
+            "mslp_hpa": 974.0,
+            "max_wind_knots": 80.0
+        }
+    },
+    "EP162026": {
+        "name": "ODALYS",
+        "valid_time": "2026-09-27 18:00:00",
+        "coordinates": {
+            "lat": 22.7,
+            "lon": -123.2
+        },
+        "intensity": {
+            "mslp_hpa": 1000.0,
+            "max_wind_knots": 40.0
+        }
+    },
+    "EP172026": {
+        "name": "POLO",
+        "valid_time": "2026-09-29 18:00:00",
+        "coordinates": {
+            "lat": 28.0,
+            "lon": -110.6
+        },
+        "intensity": {
+            "mslp_hpa": 987.0,
+            "max_wind_knots": 60.0
+        }
+    },
+    "EP182026": {
+        "name": "RACHEL",
+        "valid_time": "2026-09-30 00:00:00",
+        "coordinates": {
+            "lat": 16.6,
+            "lon": -106.3
+        },
+        "intensity": {
+            "mslp_hpa": 989.0,
+            "max_wind_knots": 60.0
+        }
+    },
+    "EP192026": {
+        "name": "NINETEEN",
+        "valid_time": "2026-09-30 00:00:00",
+        "coordinates": {
+            "lat": 13.9,
+            "lon": -130.6
+        },
+        "intensity": {
+            "mslp_hpa": 1006.0,
+            "max_wind_knots": 25.0
+        }
+    },
+    "EP912026": {
+        "name": "INVEST",
+        "valid_time": "2026-09-29 12:00:00",
+        "coordinates": {
+            "lat": 14.5,
+            "lon": -132.1
+        },
+        "intensity": {
+            "mslp_hpa": 1004.0,
+            "max_wind_knots": 30.0
+        }
+    },
+    "WP252026": {
+        "name": "SURIGAE",
+        "valid_time": "2026-09-30 00:00:00",
+        "coordinates": {
+            "lat": 30.3,
+            "lon": 137.3
+        },
+        "intensity": {
+            "mslp_hpa": 997.0,
+            "max_wind_knots": 35.0
+        }
+    },
+    "WP922026": {
+        "name": "INVEST",
+        "valid_time": "2026-09-28 18:00:00",
+        "coordinates": {
+            "lat": 18.8,
+            "lon": 97.4
+        },
+        "intensity": {
+            "mslp_hpa": 1006.0,
+            "max_wind_knots": 20.0
+        }
+    },
+    "WP932026": {
+        "name": "INVEST",
+        "valid_time": "2026-09-29 18:00:00",
+        "coordinates": {
+            "lat": 15.6,
+            "lon": 152.4
+        },
+        "intensity": {
+            "mslp_hpa": 1005.0,
+            "max_wind_knots": 20.0
+        }
+    }
+}

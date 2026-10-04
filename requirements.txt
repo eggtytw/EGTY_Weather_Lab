@@ -1,0 +1,11 @@
+xarray==2026.4.0
+cfgrib==0.9.15.1
+numpy==2.4.4
+eccodes==2.47.0
+matplotlib
+cartopy==0.25.0
+scipy==1.18.0
+tqdm
+requests
+huggingface_hub
+pandas==3.0.3
