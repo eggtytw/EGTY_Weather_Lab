@@ -1,0 +1,86 @@
+{
+    "AL092026": {
+        "name": "ISAIAS",
+        "valid_time": "2026-10-11 00:00:00",
+        "coordinates": {
+            "lat": 34.4,
+            "lon": -87.0
+        },
+        "intensity": {
+            "mslp_hpa": 1009.0,
+            "max_wind_knots": 20.0
+        }
+    },
+    "EP152026": {
+        "name": "NOLO",
+        "valid_time": "2026-10-10 18:00:00",
+        "coordinates": {
+            "lat": 31.7,
+            "lon": 145.6
+        },
+        "intensity": {
+            "mslp_hpa": 1001.0,
+            "max_wind_knots": 30.0
+        }
+    },
+    "EP182026": {
+        "name": "RACHEL",
+        "valid_time": "2026-10-10 18:00:00",
+        "coordinates": {
+            "lat": 25.8,
+            "lon": -118.9
+        },
+        "intensity": {
+            "mslp_hpa": 989.0,
+            "max_wind_knots": 55.0
+        }
+    },
+    "EP202026": {
+        "name": "SIMON",
+        "valid_time": "2026-10-10 18:00:00",
+        "coordinates": {
+            "lat": 17.4,
+            "lon": -104.8
+        },
+        "intensity": {
+            "mslp_hpa": 932.0,
+            "max_wind_knots": 130.0
+        }
+    },
+    "WP272026": {
+        "name": "KOGUMA",
+        "valid_time": "2026-10-10 18:00:00",
+        "coordinates": {
+            "lat": 23.8,
+            "lon": 148.9
+        },
+        "intensity": {
+            "mslp_hpa": 941.0,
+            "max_wind_knots": 120.0
+        }
+    },
+    "WP952026": {
+        "name": "INVEST",
+        "valid_time": "2026-10-10 18:00:00",
+        "coordinates": {
+            "lat": 14.5,
+            "lon": 149.0
+        },
+        "intensity": {
+            "mslp_hpa": 1007.0,
+            "max_wind_knots": 25.0
+        }
+    },
+    "WP962026": {
+        "name": "INVEST",
+        "valid_time": "2026-10-10 18:00:00",
+        "coordinates": {
+            "lat": 9.9,
+            "lon": 162.9
+        },
+        "intensity": {
+            "mslp_hpa": 1009.0,
+            "max_wind_knots": 15.0
+        }
+    }
+}
