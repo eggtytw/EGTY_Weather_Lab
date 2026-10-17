@@ -1,0 +1,98 @@
+{
+    "EP202026": {
+        "name": "SIMON",
+        "valid_time": "2026-10-16 18:00:00",
+        "coordinates": {
+            "lat": 21.3,
+            "lon": -110.0
+        },
+        "intensity": {
+            "mslp_hpa": 1006.0,
+            "max_wind_knots": 30.0
+        }
+    },
+    "EP212026": {
+        "name": "TRUDY",
+        "valid_time": "2026-10-17 12:00:00",
+        "coordinates": {
+            "lat": 16.3,
+            "lon": -103.7
+        },
+        "intensity": {
+            "mslp_hpa": 979.0,
+            "max_wind_knots": 80.0
+        }
+    },
+    "IO962026": {
+        "name": "INVEST",
+        "valid_time": "2026-10-17 12:00:00",
+        "coordinates": {
+            "lat": 7.7,
+            "lon": 55.3
+        },
+        "intensity": {
+            "mslp_hpa": 1010.0,
+            "max_wind_knots": 15.0
+        }
+    },
+    "SH012027": {
+        "name": "WATI",
+        "valid_time": "2026-10-17 12:00:00",
+        "coordinates": {
+            "lat": -14.4,
+            "lon": -163.0
+        },
+        "intensity": {
+            "mslp_hpa": 985.0,
+            "max_wind_knots": 60.0
+        }
+    },
+    "SH922027": {
+        "name": "INVEST",
+        "valid_time": "2026-10-16 06:00:00",
+        "coordinates": {
+            "lat": -11.2,
+            "lon": -163.3
+        },
+        "intensity": {
+            "mslp_hpa": 999.0,
+            "max_wind_knots": 35.0
+        }
+    },
+    "SH932027": {
+        "name": "INVEST",
+        "valid_time": "2026-10-17 12:00:00",
+        "coordinates": {
+            "lat": -2.6,
+            "lon": 62.3
+        },
+        "intensity": {
+            "mslp_hpa": 1010.0,
+            "max_wind_knots": 15.0
+        }
+    },
+    "WP282026": {
+        "name": "TWENTYEIGH",
+        "valid_time": "2026-10-15 12:00:00",
+        "coordinates": {
+            "lat": 22.9,
+            "lon": 138.8
+        },
+        "intensity": {
+            "mslp_hpa": 1012.0,
+            "max_wind_knots": 20.0
+        }
+    },
+    "WP292026": {
+        "name": "CHAMPI",
+        "valid_time": "2026-10-17 06:00:00",
+        "coordinates": {
+            "lat": 12.5,
+            "lon": 147.3
+        },
+        "intensity": {
+            "mslp_hpa": 948.0,
+            "max_wind_knots": 115.0
+        }
+    }
+}
