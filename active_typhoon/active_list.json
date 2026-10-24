@@ -1,0 +1,122 @@
+{
+    "AL102026": {
+        "name": "JOSEPHINE",
+        "valid_time": "2026-10-22 18:00:00",
+        "coordinates": {
+            "lat": 39.5,
+            "lon": -66.8
+        },
+        "intensity": {
+            "mslp_hpa": 988.0,
+            "max_wind_knots": 55.0
+        }
+    },
+    "EP222026": {
+        "name": "VANCE",
+        "valid_time": "2026-10-24 06:00:00",
+        "coordinates": {
+            "lat": 12.1,
+            "lon": -102.7
+        },
+        "intensity": {
+            "mslp_hpa": 965.0,
+            "max_wind_knots": 95.0
+        }
+    },
+    "IO962026": {
+        "name": "INVEST",
+        "valid_time": "2026-10-22 18:00:00",
+        "coordinates": {
+            "lat": 9.9,
+            "lon": 50.9
+        },
+        "intensity": {
+            "mslp_hpa": 1010.0,
+            "max_wind_knots": 20.0
+        }
+    },
+    "IO982026": {
+        "name": "INVEST",
+        "valid_time": "2026-10-24 06:00:00",
+        "coordinates": {
+            "lat": 15.9,
+            "lon": 90.3
+        },
+        "intensity": {
+            "mslp_hpa": 1004.0,
+            "max_wind_knots": 25.0
+        }
+    },
+    "IO992026": {
+        "name": "INVEST",
+        "valid_time": "2026-10-24 06:00:00",
+        "coordinates": {
+            "lat": 10.2,
+            "lon": 74.4
+        },
+        "intensity": {
+            "mslp_hpa": 1009.0,
+            "max_wind_knots": 15.0
+        }
+    },
+    "SH022027": {
+        "name": "AGUEDA",
+        "valid_time": "2026-10-24 06:00:00",
+        "coordinates": {
+            "lat": -5.5,
+            "lon": 46.6
+        },
+        "intensity": {
+            "mslp_hpa": 1009.0,
+            "max_wind_knots": 25.0
+        }
+    },
+    "WP292026": {
+        "name": "CHAMPI",
+        "valid_time": "2026-10-24 06:00:00",
+        "coordinates": {
+            "lat": 26.8,
+            "lon": 123.3
+        },
+        "intensity": {
+            "mslp_hpa": 977.0,
+            "max_wind_knots": 55.0
+        }
+    },
+    "WP302026": {
+        "name": "IN-FA",
+        "valid_time": "2026-10-24 06:00:00",
+        "coordinates": {
+            "lat": 10.1,
+            "lon": 165.7
+        },
+        "intensity": {
+            "mslp_hpa": 994.0,
+            "max_wind_knots": 50.0
+        }
+    },
+    "WP972026": {
+        "name": "INVEST",
+        "valid_time": "2026-10-23 06:00:00",
+        "coordinates": {
+            "lat": 10.8,
+            "lon": 166.3
+        },
+        "intensity": {
+            "mslp_hpa": 1004.0,
+            "max_wind_knots": 25.0
+        }
+    },
+    "WP982026": {
+        "name": "INVEST",
+        "valid_time": "2026-10-23 12:00:00",
+        "coordinates": {
+            "lat": 9.7,
+            "lon": 147.0
+        },
+        "intensity": {
+            "mslp_hpa": 1009.0,
+            "max_wind_knots": 15.0
+        }
+    }
+}
