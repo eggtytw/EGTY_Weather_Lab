@@ -1,0 +1,50 @@
+{
+    "EP222026": {
+        "name": "VANCE",
+        "valid_time": "2026-10-30 00:00:00",
+        "coordinates": {
+            "lat": 22.6,
+            "lon": -107.8
+        },
+        "intensity": {
+            "mslp_hpa": 1008.0,
+            "max_wind_knots": 25.0
+        }
+    },
+    "IO022026": {
+        "name": "ARNAB",
+        "valid_time": "2026-10-29 12:00:00",
+        "coordinates": {
+            "lat": 21.3,
+            "lon": 82.1
+        },
+        "intensity": {
+            "mslp_hpa": 1006.0,
+            "max_wind_knots": 20.0
+        }
+    },
+    "IO912026": {
+        "name": "INVEST",
+        "valid_time": "2026-10-31 06:00:00",
+        "coordinates": {
+            "lat": 9.9,
+            "lon": 89.7
+        },
+        "intensity": {
+            "mslp_hpa": 1007.0,
+            "max_wind_knots": 30.0
+        }
+    },
+    "WP302026": {
+        "name": "IN-FA",
+        "valid_time": "2026-10-31 06:00:00",
+        "coordinates": {
+            "lat": 22.2,
+            "lon": 142.9
+        },
+        "intensity": {
+            "mslp_hpa": 948.0,
+            "max_wind_knots": 115.0
+        }
+    }
+}
