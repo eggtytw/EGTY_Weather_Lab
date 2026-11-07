@@ -1,0 +1,86 @@
+{
+    "AL942026": {
+        "name": "INVEST",
+        "valid_time": "2026-11-07 06:00:00",
+        "coordinates": {
+            "lat": 25.6,
+            "lon": -62.4
+        },
+        "intensity": {
+            "mslp_hpa": 1000.0,
+            "max_wind_knots": 40.0
+        }
+    },
+    "CP042026": {
+        "name": "PENA",
+        "valid_time": "2026-11-07 06:00:00",
+        "coordinates": {
+            "lat": 11.3,
+            "lon": -151.8
+        },
+        "intensity": {
+            "mslp_hpa": 1000.0,
+            "max_wind_knots": 45.0
+        }
+    },
+    "CP952026": {
+        "name": "INVEST",
+        "valid_time": "2026-11-06 18:00:00",
+        "coordinates": {
+            "lat": 11.2,
+            "lon": -149.6
+        },
+        "intensity": {
+            "mslp_hpa": 1003.0,
+            "max_wind_knots": 35.0
+        }
+    },
+    "SH942027": {
+        "name": "INVEST",
+        "valid_time": "2026-11-07 06:00:00",
+        "coordinates": {
+            "lat": -13.6,
+            "lon": 54.3
+        },
+        "intensity": {
+            "mslp_hpa": 1008.0,
+            "max_wind_knots": 30.0
+        }
+    },
+    "WP302026": {
+        "name": "IN-FA",
+        "valid_time": "2026-11-06 06:00:00",
+        "coordinates": {
+            "lat": 41.5,
+            "lon": 158.7
+        },
+        "intensity": {
+            "mslp_hpa": 977.0,
+            "max_wind_knots": 65.0
+        }
+    },
+    "WP312026": {
+        "name": "CEMPAKA",
+        "valid_time": "2026-11-07 06:00:00",
+        "coordinates": {
+            "lat": 20.0,
+            "lon": 142.8
+        },
+        "intensity": {
+            "mslp_hpa": 999.0,
+            "max_wind_knots": 45.0
+        }
+    },
+    "WP992026": {
+        "name": "INVEST",
+        "valid_time": "2026-11-06 00:00:00",
+        "coordinates": {
+            "lat": 16.8,
+            "lon": 150.6
+        },
+        "intensity": {
+            "mslp_hpa": 1011.0,
+            "max_wind_knots": 25.0
+        }
+    }
+}
