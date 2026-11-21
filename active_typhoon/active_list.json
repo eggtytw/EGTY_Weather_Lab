@@ -1,0 +1,62 @@
+{
+    "IO052026": {
+        "name": "AKVAN",
+        "valid_time": "2026-11-20 12:00:00",
+        "coordinates": {
+            "lat": 19.3,
+            "lon": 83.5
+        },
+        "intensity": {
+            "mslp_hpa": 1012.0,
+            "max_wind_knots": 20.0
+        }
+    },
+    "SH042027": {
+        "name": "XAVIER",
+        "valid_time": "2026-11-21 06:00:00",
+        "coordinates": {
+            "lat": -11.6,
+            "lon": -164.7
+        },
+        "intensity": {
+            "mslp_hpa": 996.0,
+            "max_wind_knots": 45.0
+        }
+    },
+    "SH962027": {
+        "name": "INVEST",
+        "valid_time": "2026-11-21 06:00:00",
+        "coordinates": {
+            "lat": -11.5,
+            "lon": 90.9
+        },
+        "intensity": {
+            "mslp_hpa": 1007.0,
+            "max_wind_knots": 25.0
+        }
+    },
+    "SH972027": {
+        "name": "INVEST",
+        "valid_time": "2026-11-21 06:00:00",
+        "coordinates": {
+            "lat": -6.3,
+            "lon": 64.6
+        },
+        "intensity": {
+            "mslp_hpa": 1010.0,
+            "max_wind_knots": 20.0
+        }
+    },
+    "SH982027": {
+        "name": "INVEST",
+        "valid_time": "2026-11-21 06:00:00",
+        "coordinates": {
+            "lat": -7.0,
+            "lon": 74.7
+        },
+        "intensity": {
+            "mslp_hpa": 1010.0,
+            "max_wind_knots": 20.0
+        }
+    }
+}
