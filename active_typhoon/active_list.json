@@ -1,0 +1,50 @@
+{
+    "SH902027": {
+        "name": "INVEST",
+        "valid_time": "2026-11-28 06:00:00",
+        "coordinates": {
+            "lat": -4.6,
+            "lon": 100.9
+        },
+        "intensity": {
+            "mslp_hpa": 1009.0,
+            "max_wind_knots": 20.0
+        }
+    },
+    "SH972027": {
+        "name": "INVEST",
+        "valid_time": "2026-11-28 06:00:00",
+        "coordinates": {
+            "lat": -11.0,
+            "lon": 67.4
+        },
+        "intensity": {
+            "mslp_hpa": 1010.0,
+            "max_wind_knots": 15.0
+        }
+    },
+    "SH992027": {
+        "name": "INVEST",
+        "valid_time": "2026-11-28 06:00:00",
+        "coordinates": {
+            "lat": -9.9,
+            "lon": -178.3
+        },
+        "intensity": {
+            "mslp_hpa": 1008.0,
+            "max_wind_knots": 20.0
+        }
+    },
+    "WP912026": {
+        "name": "INVEST",
+        "valid_time": "2026-11-28 06:00:00",
+        "coordinates": {
+            "lat": 7.7,
+            "lon": 106.5
+        },
+        "intensity": {
+            "mslp_hpa": 1009.0,
+            "max_wind_knots": 15.0
+        }
+    }
+}
